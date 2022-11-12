@@ -10,3 +10,39 @@
     color: white;
     
 }
+
+body {
+    background-color: rgba(241, 202, 191, 0.614);
+}
+
+.catagory-img {
+    transition: transform 0.90s;
+}
+
+
+.catagory-img:hover {
+    transform: scale(1.5);
+
+}
+
+.shoe-img {
+    transition: transform 0.90s;
+}
+
+
+.shoe-img:hover {
+    transform: scale(1.10);
+
+}
+
+
+.bag-img {
+    transition: transform 0.90s;
+}
+
+
+.bag-img:hover {
+    transform: translate(0, -30px);
+
+}
+
